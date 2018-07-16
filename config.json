@@ -1,0 +1,9 @@
+{
+	"owner" : "foo",
+	"repository" : "my-repo",
+	"assignee" : "none",
+	"labels" : ["Bug"],
+	"state" : "open",
+	"creator" : "jeff",
+	"message" : "hello, committer!"
+}
